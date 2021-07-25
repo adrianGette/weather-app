@@ -1,3 +1,5 @@
+App that says the current temperature in the place that is selected.  (React)
+
 See the live app in the following link:
 
 <br>
